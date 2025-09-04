@@ -17,6 +17,6 @@ In the variable ***$body*** the email text is contained.
 Download all files (Events and Modules) from the current subdirectory of this repository to your client customizations directory: *C:\ProgramData\coolOrange\client Customizations*
 
 ## At your own risk
-The usage of these samples is at your own risk. There is no free support related to the samples. However, if you have questions to powerJobs client, then visit http://www.coolorange.com/wiki or start a conversation in our support forum at http://support.coolorange.com/support/discussions
+The usage of these samples is at your own risk. There is no free support related to the samples. However, if you have questions to powerJobs client, then visit http://www.coolorange.com/wiki
 
 ![coolOrange](https://i.ibb.co/NmnmjDT/Logo-CO-Full-colore-RGB-short-Payoff.png)
